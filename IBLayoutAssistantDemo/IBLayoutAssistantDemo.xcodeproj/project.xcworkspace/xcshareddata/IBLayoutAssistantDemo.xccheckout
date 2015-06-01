@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3E3BA811-672D-4D82-9436-D24C2C0E0664</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IBLayoutAssistantDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>95052DFBD0567ABDB9FD9210AF769C36131A3121</key>
+		<string>https://github.com/441088327/IBLayoutAssistant.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IBLayoutAssistantDemo/IBLayoutAssistantDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>95052DFBD0567ABDB9FD9210AF769C36131A3121</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/441088327/IBLayoutAssistant.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>95052DFBD0567ABDB9FD9210AF769C36131A3121</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>95052DFBD0567ABDB9FD9210AF769C36131A3121</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IBLayoutAssistant</string>
+		</dict>
+	</array>
+</dict>
+</plist>
